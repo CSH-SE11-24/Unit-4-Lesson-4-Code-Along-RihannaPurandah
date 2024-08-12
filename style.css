@@ -1,0 +1,59 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: palegreen;
+  
+}
+
+#red {
+  color: red;
+}
+
+#orange {
+  color: orange;
+}
+
+#yellow {
+  color: yellow;
+}
+
+#green {
+  color: green;
+}
+
+#blue {
+  color: blue;
+}
+
+#indigo {
+  color: indigo;
+}
+
+#violet {
+  color: violet;
+}
+
+.color{
+  color: red;
+}
+
+.big {
+  width: 80%;
+  height: auto;
+}
+
+.small {
+  width: 30%;
+  height: auto;
+}
+
+.font {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif
+}
